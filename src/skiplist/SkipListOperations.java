@@ -83,10 +83,7 @@ public class SkipListOperations {
 		System.out.println(sList.findMin());
 		System.out.println(sList.findMax());
 		sList.remove(14L);
-		
-		System.out.println("Remove value count "+sList.removeValue(55L));
-		
-		System.out.println(sList.get(16L));
+		System.out.println(sList.get(14L));
 		System.out.println(sList.size());
 		
 
