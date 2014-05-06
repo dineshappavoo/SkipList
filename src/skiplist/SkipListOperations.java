@@ -20,11 +20,11 @@ public class SkipListOperations {
 		// TODO Auto-generated method stub
 
 		long inTime=System.currentTimeMillis();
-		//Long result=new SkipListOperations().operateOnBalancedTrees("/users/dany/downloads/sskew.txt");
-		//System.out.println("Total Result : "+result);
+		Long result=new SkipListOperations().operateOnBalancedTrees("/users/dany/downloads/sskew.txt");
+		System.out.println("Total Result : "+result);
 		long pTime=System.currentTimeMillis();
 		System.out.println("Time in Milli Secs "+(pTime-inTime));
-		new SkipListOperations().testSkipList();
+		//new SkipListOperations().testSkipList();
 		
 	}
 	
