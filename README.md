@@ -23,7 +23,7 @@ Implementation of SkipList in java. The library to implement SkipList with the f
 
 ##Original release notes from 2014
 
-SplayTree is a randomized data structure. The following code snippet shows how to run the library,
+Skip List is a randomized data structure. The following code snippet shows how to run the library,
 
 
     	SkipList<Long, Long> sList=new SkipList<Long, Long>();
