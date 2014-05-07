@@ -1,4 +1,4 @@
-Splay Tree
+Skip List
 =========
 
 A skip list is a data structure that allows fast search within an ordered sequence of elements. Fast search is made possible by 
